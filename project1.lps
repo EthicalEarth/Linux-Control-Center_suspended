@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="project1"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="17"/>
+        <CursorPos X="3" Y="44"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="lcc_program.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="LCC"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="LCC_PROGRAM"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1221"/>
+        <CursorPos X="33" Y="1221"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="splash_program.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SPLASH"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="SPLASH_PROGRAM"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="72" Y="18"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="about_form"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="about"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="36" Y="48"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="lcc_program.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit4>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="about.pas"/>
+        <Caret Line="44" Column="36" TopLine="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="about.pas"/>
+        <Caret Line="45" Column="36" TopLine="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="about.pas"/>
+        <Caret Line="46" Column="36" TopLine="14"/>
+      </Position3>
+      <Position4>
+        <Filename Value="about.pas"/>
+        <Caret Line="47" Column="36" TopLine="15"/>
+      </Position4>
+      <Position5>
+        <Filename Value="about.pas"/>
+        <Caret Line="48" Column="36" TopLine="16"/>
+      </Position5>
+      <Position6>
+        <Filename Value="about.pas"/>
+        <Caret Line="47" Column="36" TopLine="16"/>
+      </Position6>
+      <Position7>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1222" Column="71" TopLine="1209"/>
+      </Position7>
+      <Position8>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1221" Column="71" TopLine="1208"/>
+      </Position8>
+      <Position9>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1220" Column="71" TopLine="1207"/>
+      </Position9>
+      <Position10>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1219" Column="71" TopLine="1206"/>
+      </Position10>
+      <Position11>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1218" Column="71" TopLine="1205"/>
+      </Position11>
+      <Position12>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1217" Column="71" TopLine="1204"/>
+      </Position12>
+      <Position13>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1216" Column="71" TopLine="1203"/>
+      </Position13>
+      <Position14>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1215" Column="71" TopLine="1202"/>
+      </Position14>
+      <Position15>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1214" Column="71" TopLine="1201"/>
+      </Position15>
+      <Position16>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1213" Column="71" TopLine="1200"/>
+      </Position16>
+      <Position17>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1212" Column="71" TopLine="1199"/>
+      </Position17>
+      <Position18>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1211" Column="71" TopLine="1198"/>
+      </Position18>
+      <Position19>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1210" Column="71" TopLine="1197"/>
+      </Position19>
+      <Position20>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1209" Column="71" TopLine="1196"/>
+      </Position20>
+      <Position21>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1208" Column="71" TopLine="1195"/>
+      </Position21>
+      <Position22>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1207" Column="71" TopLine="1194"/>
+      </Position22>
+      <Position23>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1206" Column="71" TopLine="1193"/>
+      </Position23>
+      <Position24>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1205" Column="71" TopLine="1192"/>
+      </Position24>
+      <Position25>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1204" Column="71" TopLine="1191"/>
+      </Position25>
+      <Position26>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1203" Column="71" TopLine="1190"/>
+      </Position26>
+      <Position27>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1202" Column="71" TopLine="1189"/>
+      </Position27>
+      <Position28>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1201" Column="71" TopLine="1188"/>
+      </Position28>
+      <Position29>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1200" Column="71" TopLine="1187"/>
+      </Position29>
+      <Position30>
+        <Filename Value="lcc_program.pas"/>
+        <Caret Line="1199" Column="71" TopLine="1186"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
